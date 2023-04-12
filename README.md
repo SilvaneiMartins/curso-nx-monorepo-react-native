@@ -133,7 +133,6 @@ Este projeto está sob a licença CC0 1.0 Universal. Caso gostaria de ler, por f
     <sub>
         <b>Silvanei de Almeida Martins</b>🚀
     </sub>
-    <br />
 </a>
 <br />
 Feito com ❤️ por Silvanei Martins
