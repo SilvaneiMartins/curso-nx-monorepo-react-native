@@ -15,7 +15,7 @@
 <a href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
 
 <h3 align="center">
-	🚧  APLICAÇÃO NX MONOREPO EM CONSTRUÇÃO ...  🚧
+	🚧  APLICAÇÃO NX MONOREPO ESTÁ NA PRIMEIRA FASE ...  🚧
 </h3>
 
 NX é uma ferramenta de linha de comando que ajuda a desenvolver aplicações em monorepo com várias linguagens, frameworks e bibliotecas. Ele foi criado pela equipe da Nrwl e é open source.
@@ -52,7 +52,7 @@ Em resumo, o NX é uma ferramenta poderosa para desenvolvedores que desejam cria
     npx nx run-ios nome_projeto
 ```
 
-# Features
+# Tarefas da Primeira fase do projeto:
 -   [ X ] Criar projeto My ChatText;
 -   [ X ] Criar projeto My Delivery;
 -   [ X ] Criar Library;
@@ -65,6 +65,15 @@ Em resumo, o NX é uma ferramenta poderosa para desenvolvedores que desejam cria
 -   [  ] Criar Rotas;
 -   [  ] Criar e configurar styles de cada projeto;
 -   [  ] Criar componente Button e compartilhar entre os projetos;
+
+# Tarefas da Segunda fase do projeto:
+-   [  ] Criar Onboarding de cada Projeto;
+-   [  ] Criar Login de cada Projeto;
+-   [  ] Criar Cadastro de cada Projeto;
+-   [  ] Criar Reset da Senha de Cada Projeto;
+-   [  ] Configurar a navegação entre as telas;
+-   [  ] Criar Tela Home de cada Projeto;
+-   [  ] Configurar a Authentication de cada Projeto;
 
 # Algumas image do projeto:
 <h4 align="left">
@@ -90,11 +99,13 @@ Em resumo, o NX é uma ferramenta poderosa para desenvolvedores que desejam cria
 
 # Instrução para instalar as dependências:
 ```bash
-    # Instalar as dependências
+    # Instalar as dependências do projeto
+    # Com yarn
     $ yarn
 
     ou
 
+    # Com npm
     $ npm install
 ```
 
