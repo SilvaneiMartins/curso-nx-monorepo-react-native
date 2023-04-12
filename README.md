@@ -1,12 +1,14 @@
-# NX com MONOREPO
-
 <h1 align="center">
+ PROJETO NX MONOREPO + REACT NATIVE
+</h1>
+
+<h2 align="center">
    Aplicação 1: ChatText 
    <br />
    Aplicação 2: Delivery
    <br />
    VERSÃO: 1.0.0
-</h1>
+</h2>
 
 ![NX_REACT_NATIVE](https://img.shields.io/badge/REACT-NATIVE-blue.svg)
 <br />
