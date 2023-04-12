@@ -1,5 +1,13 @@
 # NX com MONOREPO
 
+<h1 align="center">
+   Aplicação 1: ChatText 
+   <br />
+   Aplicação 2: Delivery
+   <br />
+   VERSÃO: 1.0.0
+</h1>
+
 ![NX_REACT_NATIVE](https://img.shields.io/badge/REACT-NATIVE-blue.svg)
 <br />
 <a href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
@@ -18,7 +26,7 @@ O NX também fornece muitas ferramentas e recursos para ajudar a garantir a qual
 
 Em resumo, o NX é uma ferramenta poderosa para desenvolvedores que desejam criar aplicativos em monorepo com várias tecnologias e compartilhar código e bibliotecas entre eles. Ele fornece muitas ferramentas e recursos avançados para ajudar a garantir a qualidade do código e tornar o desenvolvimento mais fácil e eficiente.
 
-# Instrução do NX:
+# Instrução configurar e executar o projeto NX MONOREPO:
 ```bash
     # Instale o nx globalmente através do comando:
     $ npm install -g nx
@@ -43,7 +51,15 @@ Em resumo, o NX é uma ferramenta poderosa para desenvolvedores que desejam cria
 ```
 
 # Features
--   [  ] Criar projeto My Delivery;
+-   [ X ] Criar projeto My ChatText;
+-   [ X ] Criar projeto My Delivery;
+-   [ X ] Criar Library;
+-   [ X ] Criar Components;
+-   [ X ] Criar a Pasta ChatText em Libs;
+-   [ X ] Criar a Pasta Delivery em Libs;
+-   [ X ] Criar Estrutura da Pasta Shared;
+-   [ X ] Criar Estrutura da Pasta Core;
+-   [ X ] Criar Estrutura da Pasta Client;
 -   [  ] Criar Rotas;
 -   [  ] Criar e configurar styles de cada projeto;
 -   [  ] Criar componente Button e compartilhar entre os projetos;
@@ -53,7 +69,9 @@ Em resumo, o NX é uma ferramenta poderosa para desenvolvedores que desejam cria
 	Algumas imagens do projeto em desenvolvimento.
 </h4>
 <h1 align="center">
- 	<a href="https://imgur.com/OFygwXx"><img src="https://i.imgur.com/OFygwXx.png" title="source: imgur.com" /></a>
+    <a href="https://imgur.com/phxSDap"><img src="https://i.imgur.com/phxSDap.png" title="source: imgur.com" /></a>
+ 	<br />
+    <a href="https://imgur.com/OFygwXx"><img src="https://i.imgur.com/OFygwXx.png" title="source: imgur.com" /></a>
 	<br />
 	<a href="https://imgur.com/vof5PM2"><img src="https://i.imgur.com/vof5PM2.png" title="source: imgur.com" /></a>
 	<br />
@@ -106,4 +124,5 @@ Este projeto está sob a licença CC0 1.0 Universal. Caso gostaria de ler, por f
 </a>
     🚀
  </a>
+<br />
 Feito com ❤️ por Silvanei Martins

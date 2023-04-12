@@ -14,7 +14,45 @@
         "skipLibCheck": true,
         "skipDefaultLibCheck": true,
         "baseUrl": ".",
-        "paths": {}
+        "paths": {
+            "@monorepo-sam/chattext": ["libs/chattext/src/index.ts"],
+            "@monorepo-sam/client/account": [
+                "libs/client/account/src/index.ts"
+            ],
+            "@monorepo-sam/client/authentication": [
+                "libs/client/authentication/src/index.ts"
+            ],
+            "@monorepo-sam/client/contexts": [
+                "libs/client/contexts/src/index.ts"
+            ],
+            "@monorepo-sam/client/interfaces": [
+                "libs/client/interfaces/src/index.ts"
+            ],
+            "@monorepo-sam/core/navigations": [
+                "libs/core/navigations/src/index.ts"
+            ],
+            "@monorepo-sam/delivery": ["libs/delivery/src/index.ts"],
+            "@monorepo-sam/shared/assets": ["libs/shared/assets/src/index.ts"],
+            "@monorepo-sam/shared/components": [
+                "libs/shared/components/src/index.ts"
+            ],
+            "@monorepo-sam/shared/contexts": [
+                "libs/shared/contexts/src/index.ts"
+            ],
+            "@monorepo-sam/shared/global": ["libs/shared/global/src/index.ts"],
+            "@monorepo-sam/shared/hooks": ["libs/shared/hooks/src/index.ts"],
+            "@monorepo-sam/shared/interfaces": [
+                "libs/shared/interfaces/src/index.ts"
+            ],
+            "@monorepo-sam/shared/screens": [
+                "libs/shared/screens/src/index.ts"
+            ],
+            "@monorepo-sam/shared/service": [
+                "libs/shared/service/src/index.ts"
+            ],
+            "@monorepo-sam/shared/styles": ["libs/shared/styles/src/index.ts"],
+            "@monorepo-sam/shared/utils": ["libs/shared/utils/src/index.ts"]
+        }
     },
     "exclude": ["node_modules", "tmp"]
 }

@@ -2,8 +2,15 @@
     "name": "monorepo-sam",
     "version": "0.0.0",
     "license": "MIT",
-    "scripts": {},
     "private": true,
+    "scripts": {
+        "chatext:metro:start": "yarn nx run chattext:start",
+        "chatext:run:android": "yarn nx run chattext:run-android",
+        "chatext:run:ios": "yarn nx run chattext:run-ios",
+        "delivery:metro:start": "yarn nx run delivery:start",
+        "delivery:run:android": "yarn nx run delivery:run-android",
+        "delivery:run:ios": "yarn nx run delivery:run-ios"
+    },
     "dependencies": {
         "react": "18.1.0",
         "react-dom": "18.1.0",
