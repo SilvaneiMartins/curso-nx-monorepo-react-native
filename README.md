@@ -120,11 +120,9 @@ Este projeto está sob a licença CC0 1.0 Universal. Caso gostaria de ler, por f
     />
     <br />
     <sub>
-        <b>Silvanei de Almeida Martins</b>
+        <b>Silvanei de Almeida Martins</b>🚀
     </sub>
     <br />
 </a>
-    🚀
- </a>
 <br />
 Feito com ❤️ por Silvanei Martins
