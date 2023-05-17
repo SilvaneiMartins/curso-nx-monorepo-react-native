@@ -23,7 +23,7 @@ export function ButtonEntrar(props: ButtonEntrarProps) {
         >
             <Text
                 style={{
-                    fontSize: 20,
+                    fontSize: 24,
                     color: 'white',
                 }}
             >
