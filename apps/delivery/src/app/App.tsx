@@ -1,5 +1,7 @@
 import React from 'react'
-import { View, Text } from 'react-native'
+import { View, Text, Alert } from 'react-native'
+
+import { BotaoGenerico } from '@monorepo-sam/shared/components'
 
 const App = () => {
     return (
@@ -12,7 +14,16 @@ const App = () => {
         >
             <Text style={{
                 fontSize: 25,
-            }} >Delivery Text</Text>
+            }} >Delivery</Text>
+
+            <BotaoGenerico
+                onPress={
+                    () => {
+                        Alert.alert('Develivery', 'Você clicou no botão genérico Develivery')
+                    }
+                }
+                title='Botão Genérico Delivery'
+            />
         </View>
     )
 }
